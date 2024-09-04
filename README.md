@@ -71,14 +71,18 @@ Hi there! <br>I’m Shab, and I’m passionate about untangling the complexities
 
 ## My passions
 
+<br>
+
 ### 🤖 Artificial Sensing
 
+<br>
 
 ### 🧩 Making Complexity Simple
 As a lead developer, I've developed a deep interest in effectively communicating with various stakeholders i.e. potential users, key decision-makers, upper management, and colleagues- to ensure project success. I've come to appreciate how the presentation of an idea can be tailored to different audiences, and how the right words can be the difference between driving innovation forward or leaving it stalled.
 
 In my experience, I've also come to realize that simplicity is key. As counterintuitive as it may seem, less is often more. Stripping away the unnecessary and focusing on the essential is crucial to capture the attention in an age where our attention spans are shrinking, and we're constantly overwhelmed with information.
 
+<br>
 
 ### ✍ Digital Communication
 An interplay of different factors plays a crucial role in making an application successful. During hackathons, I've often realized that the majority of ideas we come up with are not entirely new- thousands, if not more, have had the same concept before us, and many have implemented it with impressive technology. Yet, even the most advanced and elegant solutions are only part of the equation for success, much like Facebook's journey.
