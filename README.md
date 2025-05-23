@@ -14,7 +14,7 @@
 
 ## 🚀 Welcome to My GitHub!
 
-Hi there! <br>I’m Cesare, and I’m passionate about untangling the complexities of technology and making them simple, intuitive, and impactful. With one and a half years of experience pushing innovation in large organizations, I’m ready to embark on a new adventure!
+Hi there! <br>I’m Cesare, and I’m passionate about untangling the complexities of technology and making them simple, intuitive, and impactful. With two years of experience pushing innovation in large organizations, I’m now focused on driving meaningful GenAI solutions in my current role.
 
 <br>
 
@@ -55,7 +55,7 @@ Hi there! <br>I’m Cesare, and I’m passionate about untangling the complexiti
 ## Who am I?
 
 🏛️ Software Engineer with MSc <br> 
-🛠️ 1.5 years at Volvo Cars <br> 
+🛠️ 2 years at Volvo Cars and Sogeti <br> 
 &nbsp;💡 Strategic <br>
 &nbsp;&nbsp;&nbsp;🌎 Cosmopolitan 
 
