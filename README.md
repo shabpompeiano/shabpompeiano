@@ -10,7 +10,7 @@
 
 [linkedin]: https://www.linkedin.com/in/shab-pompeiano
 [github]: https://github.com/shabpompeiano
-[astra]: https://github.com/shabpompeiano
+[astra]: https://br-ai.in
 
 ## 🚀 Welcome to My GitHub!
 
