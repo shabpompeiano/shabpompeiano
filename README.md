@@ -1,4 +1,4 @@
-<h1 align="center" style="">Hi 👋, I'm Shab! </h1>
+<h1 align="center" style="">Hi 👋, I'm Cesare! </h1>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ## 🚀 Welcome to My GitHub!
 
-Hi there! <br>I’m Shab, and I’m passionate about untangling the complexities of technology and making them simple, intuitive, and impactful. With one and a half years of experience pushing innovation in large organizations, I’m ready to embark on a new adventure!
+Hi there! <br>I’m Cesare, and I’m passionate about untangling the complexities of technology and making them simple, intuitive, and impactful. With one and a half years of experience pushing innovation in large organizations, I’m ready to embark on a new adventure!
 
 <br>
 
@@ -100,4 +100,4 @@ I’d love to connect. Explore my projects, check out my work, and feel free to 
 
 Thanks for visiting, and I hope you find something here that inspires you!
 
-— Shab
+— Cesare
